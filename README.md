@@ -10,4 +10,4 @@
     - Calcular pago Semanal
 ### Mostrar resultado
     - Mostrar pago Semanal
-'Fin'
+*Fin*
